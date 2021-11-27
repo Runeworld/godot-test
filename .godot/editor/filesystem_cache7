@@ -1,0 +1,13 @@
+102b54792f6b2ef812636a2bdaeb9d34
+::res://::1638056764
+Climate.gd::GDScript::-1::1638056764::0::1::::Climate<>RefCounted<>::
+Debug.gd::GDScript::-1::1638056764::0::1::::Debug<>RefCounted<>::
+default_env.tres::Environment::-1::1638056764::0::1::::<><>::
+Game.gd::GDScript::-1::1638056764::0::1::::Game<>Control<>::
+Gametime.gd::GDScript::-1::1638056764::0::1::::Gametime<>RefCounted<>::
+icon.png::StreamTexture2D::5118830321846351696::1638056764::1638056764::1::::<><>::
+Node2D.tscn::PackedScene::6973428456019082984::1638056764::0::1::::<><>::res://Game.gd
+Region.gd::GDScript::-1::1638056764::0::1::::Region<>RefCounted<>::
+Season.gd::GDScript::-1::1638056764::0::1::::Season<>RefCounted<>::
+Weather.gd::GDScript::-1::1638056764::0::1::::Weather<>RefCounted<>::
+WeightedProbabilityList.gd::GDScript::-1::1638056764::0::1::::<>RefCounted<>::
